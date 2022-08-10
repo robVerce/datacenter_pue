@@ -8,8 +8,8 @@
 Please see the simple demostration in "demo.ipynb"
 
 # Inputs
-* 1. Climate condition
-* 2. Data center system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
+1. Climate condition
+2. Data center system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
 # Reference
 * Climate- and technology-specific PUE and WUE estimations for U.S. data centers using a hybrid statistical and thermodynamics-based approach: https://doi.org/10.1016/j.resconrec.2022.106323
