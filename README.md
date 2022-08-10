@@ -1,18 +1,18 @@
 # Data-Center-Water-footprint
 
-# Scope:
-* A simple tool for simultaneous data center Power Usage Effectiveness and Water Usage Effectiveness prediction.  
-* Physics-based model supporting *facility-level* and *national-level* scenario analysis;
+# Scope
+* A simple tool for simultaneous data center Power Usage Effectiveness and Water Usage Effectiveness prediction
+* Physics-based model supporting *facility-level* and *national-level* scenario analysis
 
-# How to use:
-Please see the simple demostration in "demo.ipynb".
+# How to use
+Please see the simple demostration in "demo.ipynb"
 
-# Inputs:
+# Inputs
 * 1. Climate condition
 * 2. Data center system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
-# Reference:
+# Reference
 * Climate- and technology-specific PUE and WUE estimations for U.S. data centers using a hybrid statistical and thermodynamics-based approach: https://doi.org/10.1016/j.resconrec.2022.106323
 
-# Contact:
+# Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
