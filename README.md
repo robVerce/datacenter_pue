@@ -2,7 +2,7 @@
 
 # Scope:
 * A simple tool for simultaneous data center Power Usage Effectiveness and Water Usage Effectiveness prediction.  
-* Physics-based model supporting *national-level scenario analysis*;
+* Physics-based model supporting *facility-level* and *national-level* scenario analysis;
 
 # How to use:
 Please see the simple demostration in "demo.ipynb".
