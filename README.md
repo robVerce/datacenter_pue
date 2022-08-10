@@ -2,7 +2,7 @@
 
 # Scope
 * A simple tool for simultaneous data center *Power Usage Effectiveness (PUE)* and *Water Usage Effectiveness (WUE)* prediction
-* Physics-based model supporting *facility-level* and *national-level* scenario analysis
+* Physics-based model supporting *facility-level* and *national-level* analysis
 
 # How to use
 Please see the simple demostration in "demo.ipynb"
