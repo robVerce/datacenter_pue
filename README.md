@@ -5,7 +5,7 @@
 * Physics-based model supporting *facility-level* and *national-level* analysis
 
 # How to use
-Please see the simple demostration in "demo.ipynb"
+Please see the simple demonstration in "demo.ipynb"
 
 # Inputs
 1. Climate condition
