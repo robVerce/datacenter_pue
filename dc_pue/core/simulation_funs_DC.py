@@ -6,13 +6,16 @@ from CoolProp.HumidAirProp import HAPropsSI
 
 import pickle
 
+from pathlib import Path
+HERE = Path(__file__).parent
+
 # COP: based on gp regressor
 # for water-cooled chiller
-COP_gp = pickle.load(open('COP_2.pkl', 'rb'))
+COP_gp = pickle.load(open(HERE / 'COP_2.pkl', 'rb'))
 # for DX system
-COP_DX_gp = pickle.load(open('COP_DX.pkl', 'rb'))
+COP_DX_gp = pickle.load(open(HERE / 'COP_DX.pkl', 'rb'))
 # for air-cooled chiller
-COP_air_gp = pickle.load(open('COP_AC.pkl', 'rb'))
+COP_air_gp = pickle.load(open(HERE / 'COP_AC.pkl', 'rb'))
 
 
 # Other functions #

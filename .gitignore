@@ -1,0 +1,4 @@
+env/
+.python-version
+activate.sh
+__pycache__
