@@ -24,3 +24,10 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
 
+[tool.ruff]
+exclude = [
+    "dc_pue/core"
+]
+
+[tool.ruff.lint]
+ignore = ["F401"]
